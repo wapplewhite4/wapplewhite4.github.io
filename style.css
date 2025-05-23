@@ -4,8 +4,8 @@ body {
   margin: auto;
   padding: 20px;
   line-height: 1.6;
-  background: #f9f9f9;
-  color: #333;
+  background: #01579b;
+  color: #84ffff;
 }
 
 nav {
@@ -16,7 +16,7 @@ nav {
 nav a {
   margin: 0 10px;
   text-decoration: none;
-  color: #0070ba;
+  color: #ff8a80;
   font-weight: bold;
 }
 
